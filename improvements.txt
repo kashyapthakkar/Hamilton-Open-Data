@@ -1,0 +1,9 @@
+1. User's Location is now shown by orange pushpin to give it a different look than places
+
+2. Search bar is now working to search location by it's title or by it's address
+
+3. Added about page in navigation bar so user can visit about page to get familier with web-application 
+
+4. Screen plan is changed: Social media links will be hidden in small and extra small devices
+
+5. Made social media links accesible 
